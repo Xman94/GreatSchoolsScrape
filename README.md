@@ -8,7 +8,7 @@ This project is a web scraper that retrieves information about schools from the 
 - Chromedriver
 ## Usage
 ### Clone the repository:
-- git clone https://github.com/Xman94/GreatSchoolsScrape/tree/master
+- git clone https://github.com/Xman94/GreatSchoolsScrape
 ### Navigate to the project directory:
 - cd GreatSchoolsScrape
 ### Run the script:
