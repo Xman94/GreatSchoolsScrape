@@ -12,6 +12,7 @@ This project is a web scraper that retrieves information about schools from the 
 ### Navigate to the project directory:
 - cd GreatSchoolsScrape
 ### Run the script:
+- on line 27 change the chrome driver path to where you installed it on your local machine
 - python great_schools_scrape.py
 - Follow the prompts to enter an address. The scraper will retrieve information about the schools in the search results and store it in a CSV file named "GreatSchools.csv" in the project directory.
 ## Notes
